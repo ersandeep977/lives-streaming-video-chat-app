@@ -1,4 +1,4 @@
-# LW-Date-10-06-2021-Task-03
+# Date-10-06-2021
 # link  full article
 https://patelsandeep88.medium.com/create-live-streaming-video-chat-app-without-voice-using-cv2-module-of-python-711bf86829d7
 # Create Live Streaming Video Chat App without voice using cv2 module of Python
